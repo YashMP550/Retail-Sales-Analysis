@@ -61,3 +61,18 @@ This project involves a comprehensive analysis of a retail sales dataset using *
 
    ```bash
    git clone https://github.com/your-username/Retail-Sales-Analysis.git
+
+
+
+## 📁 Project Structure
+
+Retail-Sales-Analysis/
+│
+├── data/
+│   └── SQL - Retail Sales Analysis_utf.csv       # Raw dataset
+│
+├── scripts/
+│   └── analysis_queries.sql                      # SQL queries for analysis
+│
+├── README.md                                     # Project documentation
+
